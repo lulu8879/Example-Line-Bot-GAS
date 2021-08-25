@@ -1,0 +1,18 @@
+{
+  "timeZone": "Asia/Bangkok",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "Linebotlibgas",
+        "libraryId": "1sQ-LN2bvCy1jJlDpXYEt1hxe06RzMKxwYInZppwPRQ4CWsIBMg7wlphn",
+        "version": "3"
+      }
+    ]
+  },
+  "webapp": {
+    "executeAs": "USER_DEPLOYING",
+    "access": "ANYONE_ANONYMOUS"
+  }
+}
